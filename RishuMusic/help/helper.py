@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -81,7 +81,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Sachin Sanatani```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -293,9 +293,8 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
-
 
 
     HELP_20 = '''```
@@ -304,7 +303,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -321,7 +320,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -332,7 +331,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +339,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +347,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -364,7 +363,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
 
 
@@ -375,7 +374,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) **
 '''
     HELP_PROMOTION = '''
 **───────────────────────
@@ -397,34 +396,34 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [ ʀɪsʜυ ](https://t.me/lll_SANATANI_lll)
-❍ ᴄσηᴛᴧᴄᴛ - [Ꝛᴧᴅʜє Sᴧηᴧᴛᴧηɪ](https://t.me/ll_RADHE7_ll)
+❍ ᴄσηᴛᴧᴄᴛ - [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
 **───────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[ʀɪsʜυ](https://t.me/ur_rishu_143)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[UFC-UPDATES](https://t.me/UFC_UPDATES)˼ ʙσᴛ sᴛᴧᴛυs │
 ───────────────────────
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
 
-╭⎋ [ʀɪsʜυ ϻυsɪᴄ](https://t.me/rishu_musicbot) : ᴧʟɪᴠє 
+╭⎋ [ᴛᴧϻᴧηηᴧ ϻυsɪᴄ](https://t.me/TAMANNA_MUSIC_BOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ʀᴧᴅʜє ϻυsɪᴄ](https://t.me/RADHE_MUSIC_ROBOT) : ᴧʟɪᴠє 
+╭⎋ [ϻɪsʜɪ ϻυsɪᴄ](https://t.me/MishiMusicBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ᴧꝛᴧᴅʜʏᴧ ϻυsɪᴄ](https://t.me/ZEUS_MUSIC_ROBOT) : ᴧʟɪᴠє 
+╭⎋ [ʀᴇᴧᴄᴛɪᴏɴ ʙᴏᴛ](https://t.me/UFC_REACTION_BOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/vip_robotz/4)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/UFC_UPDATES)
 ───────────────────────
-⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
+⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 cot 2021
 ───────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [ʀɪsʜυ](https://t.me/ur_rishu_143) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) ˼
 ───────────────────────**
 '''
     HELP_ABOUT = '''
@@ -444,10 +443,10 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Ꝛɪsʜυ υᴘᴅᴧᴛє](https://t.me/ur_rishu_143)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Ꝛɪsʜυ sυᴘᴘσʀᴛ](https://t.me/ur_support07)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [Ꝛɪsʜυ sᴧηᴧᴛᴧηɪ](https://t.me/Rishu1286)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/lll_SANATANI_lll)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴜꜰᴄ υᴘᴅᴧᴛє](https://t.me/UFC_UPDATES)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [sυᴘᴘσʀᴛ](https://t.me/ll_P_U_L_lI)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/l_HEART_BEAT_l)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
