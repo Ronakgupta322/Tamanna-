@@ -411,7 +411,7 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ϻɪsʜɪ ϻυsɪᴄ](https://t.me/MishiMusicBot) : ᴧʟɪᴠє 
+╭⎋ [ᴛᴧϻᴧηηᴧ ꭙ ʀᴏʙᴏᴛ](https://t.me/@TamannaMusic_Bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
