@@ -5,8 +5,8 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("30212752")
+API_HASH = getenv("a35b45b914a360af595720fe44d869c4")
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## E.G https://yt.okflix.
 YT_API_KEY = getenv("YT_API_KEY" , 'xbit_M79PCh3BWqCHuXxDagWV5jfNrZBKjd7p' ) 
 BOT_TOKEN = getenv("BOT_TOKEN")
