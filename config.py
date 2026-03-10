@@ -40,7 +40,7 @@ ASSUSERNAME = get_str_env("ASSUSERNAME", "")
 MONGO_DB_URI = get_str_env("MONGO_DB_URI", None)
 
 DURATION_LIMIT_MIN = get_int_env("DURATION_LIMIT", 17000)
-LOGGER_ID = get_int_env("LOGGER_ID", required=True)
+LOGGER_ID = get_int_env("-1003671045257", required=True)
 OWNER_ID = get_int_env("OWNER_ID", required=True)
 
 HEROKU_APP_NAME = get_str_env("HEROKU_APP_NAME")
